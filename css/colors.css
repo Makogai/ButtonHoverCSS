@@ -1,0 +1,293 @@
+.grey {
+    background: grey;
+}
+.grey-lighten-1 {
+    background: #8B8B8B;
+}
+.grey-lighten-2 {
+    background: #979797;
+}
+.grey-lighten-3 {
+    background: #A2A2A2;
+}
+.grey-lighten-4 {
+    background: #AEAEAE;
+}
+.grey-lighten-5 {
+    background: #B9B9B9;
+}
+.grey-darken-1 {
+    background: #757575;
+}
+.grey-darken-2 {
+   background: #696969;
+}
+.grey-darken-3 {
+    background: #5E5E5E;
+}
+.grey-darken-4 {
+    background: #525252;
+}
+.grey-darken-5 {
+    background: #464646;
+}
+.orange {
+    background: #FFA500;
+}
+.orange-lighten-1 {
+    background: #FFAD17;
+}
+.orange-lighten-2 {
+    background: #FFB52E;
+}
+.orange-lighten-3 {
+    background: #FFBD45;
+}
+.orange-lighten-4 {
+    background: #FFC55C;
+}
+.orange-lighten-5 {
+    background: #FFCD73;
+}
+.orange-darken-1 {
+    background: #E89600;
+}
+.orange-darken-2 {
+    background: #D18800;
+}
+.orange-darken-3 {
+    background: #BA7900;
+}
+.orange-darken-4 {
+    background: #A36A00;
+}
+.orange-darken-5 {
+    background: #8C5A00;
+}
+.rose {
+    background: #FF007F;
+}
+.rose-lighten-1 {
+    background:#FF178A;
+}
+.rose-lighten-2 {
+    background:#FF2E96;
+}
+.rose-lighten-3 {
+    background:#FF45A1;
+}
+.rose-lighten-4 {
+    background:#FF5CAD;
+}
+.rose-lighten-5 {
+    background:#FF73B9;
+}
+.rose-darken-1 {
+    background: #E80074;
+}
+.rose-darken-2 {
+    background: #D10068;
+}
+.rose-darken-3 {
+    background: #BA005D;
+}
+.rose-darken-4 {
+    background: #A30051;
+}
+.rose-darken-5 {
+    background: #8C0046;
+}
+.white {
+    background: #ffffff;
+}
+.black {
+    background: #000000;
+}
+.green {
+    background: #008B00;
+}
+.green-lighten-1 {
+    background: #179517;
+}
+.green-lighten-2 {
+    background: #2EA02E;
+}
+.green-lighten-3 {
+    background: #45AA45;
+}
+.green-lighten-4 {
+    background: #5CB55C;
+}
+.green-lighten-5 {
+    background: #73BF73;
+}
+.green-darken-1 {
+    background: #007F00;
+}
+.green-darken-2 {
+    background: #007200;
+}
+.green-darken-3 {
+    background: #006600;
+}
+.green-darken-4 {
+    background: #005900;
+}
+.green-darken-5 {
+    background: #004C00;
+}
+/*YELLOW*/
+.yellow{
+    background: #FFFF00;
+}
+/*YELLOW_DARKEN*/
+.yellow-darken-1{
+    background: #E8E800;
+}
+.yellow-darken-2{
+    background: #D1D100;
+}
+.yellow-darken-3{
+    background: #BABA00;
+}
+.yellow-darken-4{
+    background: #A3A300;
+}
+.yellow-darken-5{
+    background: #8C8C00;
+}
+/*YELLOW_DARKEN*/
+/*YELLOW_LIGHTEN*/
+.yellow-lighten-1{
+    background: #FFFF17; 
+}
+.yellow-lighten-2{
+    background: #FFFF2E; 
+}
+.yellow-lighten-3{
+    background: #FFFF45; 
+}
+.yellow-lighten-4{
+    background: #FFFF5C; 
+}
+.yellow-lighten-5{
+    background: #FFFF73; 
+}
+/*YELLOW_LIGHTEN*/
+/*RED*/
+.red{
+    background: #ff0000;
+}
+/*RED*/
+/*RED_DARKEN*/
+.red-darken-1{
+    background: #E80000;
+}
+.red-darken-2{
+    background: #D10000;
+}
+.red-darken-3{
+    background: #BA0000;
+}
+.red-darken-4{
+    background: #A30000;
+}
+.red-darken-5{
+    background: #8C0000;
+}
+/*RED_DARKEN*/
+/*RED_LIGHTEN*/
+.red-lighten-1{
+    background:#FF1717;
+}
+.red-lighten-2{
+    background:#FF2E2E;
+}
+.red-lighten-3{
+    background:#FF4545;
+}
+.red-lighten-4{
+    background:#FF5C5C;
+}
+.red-lighten-5{
+    background:#FF7373;
+}
+/*RED_LIGHTEN*/
+/*BLUE*/
+.blue{
+    background: #0000FF;
+}
+/*RED*/
+/*RED_DARKEN*/
+.blue-darken-1{
+    background: #0000E8;
+}
+.blue-darken-2{
+    background: #0000D1;
+}
+.blue-darken-3{
+    background: #0000BA;
+}
+.blue-darken-4{
+    background: #0000A3;
+}
+.blue-darken-5{
+    background: #00008C;
+}
+/*RED_DARKEN*/
+/*BLUE_LIGHTEN*/
+.blue-lighten-1{
+    background: #1717FF;
+}
+.blue-lighten-2{
+    background: #2E2EFF;
+}
+.blue-lighten-3{
+    background: #4545FF;
+}
+.blue-lighten-4{
+    background: #5C5CFF;
+}
+.blue-lighten-5{
+    background: #7373FF;
+}
+/*BLUE_LIGHTEN*/
+/*PURPLE*/
+.purple{
+    background: #800080;
+}
+/*PURPLE*/
+/*PURPLE_DARKEN*/
+.purple-darken-1{
+    background: #750075;
+}
+.purple-darken-2{
+    background: #690069;
+}
+.purple-darken-3{
+    background: #5E005E;
+}
+.purple-darken-4{
+    background: #520052;
+}
+.purple-darken-5{
+    background: #460046;
+}
+/*PURPLE_DARKEN*/
+/*PURPLE_LIGHTEN*/
+.purple-lighten-1{
+    background: #8B178B;
+}
+.purple-lighten-2{
+    background: #972E97;
+}
+.purple-lighten-3{
+    background: #A245A2;
+}
+.purple-lighten-4{
+    background: #AE5CAE;
+}
+.purple-lighten-5{
+    background: #B973B9;
+}
+/*PURPLE_LIGHTEN*/
