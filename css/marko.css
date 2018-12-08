@@ -1,0 +1,155 @@
+/*YELLOW*/
+.yellow{
+    background: #FFFF00;
+}
+/*YELLOW_DARKEN*/
+.yellow-darken-1{
+    background: #E8E800;
+}
+.yellow-darken-2{
+    background: #D1D100;
+}
+.yellow-darken-3{
+    background: #BABA00;
+}
+.yellow-darken-4{
+    background: #A3A300;
+}
+.yellow-darken-5{
+    background: #8C8C00;
+}
+/*YELLOW_DARKEN*/
+/*YELLOW_LIGHTEN*/
+.yellow-lighten-1{
+    background: #FFFF17; 
+}
+.yellow-lighten-2{
+    background: #FFFF2E; 
+}
+.yellow-lighten-3{
+    background: #FFFF45; 
+}
+.yellow-lighten-4{
+    background: #FFFF5C; 
+}
+.yellow-lighten-5{
+    background: #FFFF73; 
+}
+/*YELLOW_LIGHTEN*/
+/*RED*/
+.red{
+    background: #ff0000;
+}
+/*RED*/
+/*RED_DARKEN*/
+.red-darken-1{
+    background: #E80000;
+}
+.red-darken-2{
+    background: #D10000;
+}
+.red-darken-3{
+    background: #BA0000;
+}
+.red-darken-4{
+    background: #A30000;
+}
+.red-darken-5{
+    background: #8C0000;
+}
+/*RED_DARKEN*/
+/*RED_LIGHTEN*/
+.red-lighten-1{
+    background:#FF1717;
+}
+.red-lighten-2{
+    background:#FF2E2E;
+}
+.red-lighten-3{
+    background:#FF4545;
+}
+.red-lighten-4{
+    background:#FF5C5C;
+}
+.red-lighten-5{
+    background:#FF7373;
+}
+/*RED_LIGHTEN*/
+/*BLUE*/
+.blue{
+    background: #0000FF;
+}
+/*RED*/
+/*RED_DARKEN*/
+.blue-darken-1{
+    background: #0000E8;
+}
+.blue-darken-2{
+    background: #0000D1;
+}
+.blue-darken-3{
+    background: #0000BA;
+}
+.blue-darken-4{
+    background: #0000A3;
+}
+.blue-darken-5{
+    background: #00008C;
+}
+/*RED_DARKEN*/
+/*BLUE_LIGHTEN*/
+.blue-lighten-1{
+    background: #1717FF;
+}
+.blue-lighten-2{
+    background: #2E2EFF;
+}
+.blue-lighten-3{
+    background: #4545FF;
+}
+.blue-lighten-4{
+    background: #5C5CFF;
+}
+.blue-lighten-5{
+    background: #7373FF;
+}
+/*BLUE_LIGHTEN*/
+/*PURPLE*/
+.purple{
+    background: #800080;
+}
+/*PURPLE*/
+/*PURPLE_DARKEN*/
+.purple-darken-1{
+    background: #750075;
+}
+.purple-darken-2{
+    background: #690069;
+}
+.purple-darken-3{
+    background: #5E005E;
+}
+.purple-darken-4{
+    background: #520052;
+}
+.purple-darken-5{
+    background: #460046;
+}
+/*PURPLE_DARKEN*/
+/*PURPLE_LIGHTEN*/
+.purple-lighten-1{
+    background: #8B178B;
+}
+.purple-lighten-2{
+    background: #972E97;
+}
+.purple-lighten-3{
+    background: #A245A2;
+}
+.purple-lighten-4{
+    background: #AE5CAE;
+}
+.purple-lighten-5{
+    background: #B973B9;
+}
+/*PURPLE_LIGHTEN*/
