@@ -1,0 +1,7 @@
+Kako pušiti na gitHub:
+
+1. Edituj sta zeliis
+2. git status
+3. git add pa fajlove koje imas u status
+4. git commit -m "Poruka sta si dodao"
+5. git push
