@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+button{
+    height: 80px;
+    width: 190px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.dropShadow{
+    background: #1982C4;
+    border-style: none;
+    color: white;
+    text-transform: uppercase;
+    transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.dropShadow:hover{
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+
+
+/*COLORS*/
+.red{
+    background: red;
+}
+.blue{
+    background: blue;
+}
+.purple{
+    background: purple;
+}
+/*COLORS*/
