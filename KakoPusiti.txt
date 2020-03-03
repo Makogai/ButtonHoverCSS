@@ -5,3 +5,4 @@ Kako pušiti na gitHub:
 3. git add pa fajlove koje imas u status
 4. git commit -m "Poruka sta si dodao"
 5. git push
+6. Git us in si de Us P
